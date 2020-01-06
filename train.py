@@ -1,8 +1,5 @@
-'''
-    LSTM-based Deep Learning Models for Non-factoid Answer Selection
-    Ming Tan, Cicero dos Santos, Bing Xiang, Bowen Zhou, ICLR 2016
-    https://arxiv.org/abs/1511.04108
-'''
+# -*- coding: utf-8 -*-
+
 import os
 import random
 import argparse
